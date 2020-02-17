@@ -24,5 +24,5 @@ following the same syntax.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|     |     |     |      |
+|   3  |   [OpenStreetMap]( https://www.openstreetmap.org/user/Megamega53/history#map=13/40.3779/-74.6092&layers=N) |   OpenStreet Map feature  |   I made two edits on OpenStreet Map. I've added addresses and hours to a few buildings in Princeton on Nassau Street. And I've also added some descriptions to some baseball fields around Woodlot Park in South Brunswick.|
 |     |     |     |      |
