@@ -27,9 +27,11 @@ following the same syntax.
 |   6  |   MichelleLucero-weekly Week 2 |  Blog   |   I've fixed some grammar mistakes, spelling and some wording in the post to make it more streamlined.   |
 |   7  |  [OpenStreetMap](https://www.openstreetmap.org/changeset/82235234) | OpenStreet Map |  Added the address to Sal's Pizza after correcting a note about a former location in Princeton.  |
 |   9  |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Freedom_Planet&diff=prev&oldid=948098676) | Wikipedia edit | Made a minor edit on the article of Freedom Planet by changing the grammar of the sentence that makes a colon unnessary.  |
-|   9  |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Felidae_(film)&diff=prev&oldid=948099756) | Wikipedia edit | Added more details to a sentence describing a scene in the movie.  |
+|     |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Felidae_(film)&diff=prev&oldid=948099756) | Wikipedia edit | Added more details to a sentence describing a scene in the movie.  |
 |  10  |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=9_(2009_animated_film)&diff=prev&oldid=948195476) | Wikipedia edit | Modified the paragraph in the Soundtrack section. |
-|  10  |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=List_of_unofficial_Sonic_media&diff=prev&oldid=948275099) | Wikipedia edit | Added more details to a game in the Video Games section, while also adding a source to the detail. |
+|    |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=List_of_unofficial_Sonic_media&diff=prev&oldid=948275099) | Wikipedia edit | Added more details to a game in the Video Games section, while also adding a source to the detail. |
+|    |  [Godot-Demo-Projects](https://github.com/godotengine/godot-demo-projects/issues/457) | Godot Bug Report | Added a bug report of a template that won't properly install. |
+
 
 
 
