@@ -32,7 +32,9 @@ following the same syntax.
 |    |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=List_of_unofficial_Sonic_media&diff=prev&oldid=948275099) | Wikipedia edit | Added more details to a game in the Video Games section, while also adding a source to the detail. |
 |    |  [Godot-Demo-Projects](https://github.com/godotengine/godot-demo-projects/issues/457) | Godot Bug Report | Added a bug report of a template that won't properly install. |
 |    |  [Godot-Demo-Projects](https://github.com/godotengine/godot-demo-projects/issues/244) | Godot Request Contribution | I have contributed to an art related request, by removing white artifacts that was in the png files from the original requester, after another user requested for its removal. |
-|    |  [MaiteFlores-weekly Week 9](https://github.com/hunter-college-ossd-spr-2020/MaiteFlores-weekly/pull/8/commits/0083d396e33e837681bc232db3b79832d8147170)  |  Blog Edit | Made some minor grammar fixes on the blog post. Mostly by adding commas. |
+|    |  MaiteFlores-weekly Week 9  |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/MaiteFlores-weekly/pull/8/commits/0083d396e33e837681bc232db3b79832d8147170) | Made some minor grammar fixes on the blog post. Mostly by adding commas. |
+|    |  gillybytes-weekly Week 9  |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/gillybytes-weekly/pull/10/commits/43844df3cd924787e1eaf39279ef069d5fb7ff80) | Made some minor grammar edits on the blog post, which were mostly comma additions. |
+|    |     |  [Open Issue](https://github.com/hunter-college-ossd-spr-2020/gillybytes-weekly/issues/11) | I have opened an issue to make a suggestion to change the grammar of a sentence in the blog post. |
 
 
 
