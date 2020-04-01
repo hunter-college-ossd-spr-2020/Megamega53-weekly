@@ -35,6 +35,7 @@ following the same syntax.
 |    |  MaiteFlores-weekly Week 9  |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/MaiteFlores-weekly/pull/8/commits/0083d396e33e837681bc232db3b79832d8147170) | Made some minor grammar fixes on the blog post. Mostly by adding commas. |
 |    |  gillybytes-weekly Week 9  |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/gillybytes-weekly/pull/10/commits/43844df3cd924787e1eaf39279ef069d5fb7ff80) | Made some minor grammar edits on the blog post, which were mostly comma additions. |
 |    |     |  [Open Issue](https://github.com/hunter-college-ossd-spr-2020/gillybytes-weekly/issues/11) | I have opened an issue to make a suggestion to change the grammar of a sentence in the blog post. |
+|    |  [Godot-Demo-Projects](https://github.com/godotengine/godot-demo-projects/issues/458) | Godot Request Contribution | Opened a proposal related to my contribution to a request thread |
 
 
 
