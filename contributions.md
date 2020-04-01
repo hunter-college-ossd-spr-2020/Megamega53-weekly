@@ -31,6 +31,7 @@ following the same syntax.
 |  10  |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=9_(2009_animated_film)&diff=prev&oldid=948195476) | Wikipedia edit | Modified the paragraph in the Soundtrack section. |
 |    |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=List_of_unofficial_Sonic_media&diff=prev&oldid=948275099) | Wikipedia edit | Added more details to a game in the Video Games section, while also adding a source to the detail. |
 |    |  [Godot-Demo-Projects](https://github.com/godotengine/godot-demo-projects/issues/457) | Godot Bug Report | Added a bug report of a template that won't properly install. |
+|    |  [Godot-Demo-Projects](https://github.com/godotengine/godot-demo-projects/issues/244) | Godot Request Contribution | I have contributed to an art related request, by removing white artifacts that was in the png files from the original requester, after another user requested for its removal. |
 
 
 
