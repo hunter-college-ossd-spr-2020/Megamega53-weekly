@@ -37,6 +37,7 @@ following the same syntax.
 |    |     |  [Open Issue](https://github.com/hunter-college-ossd-spr-2020/gillybytes-weekly/issues/11) | I have opened an issue to make a suggestion to change the grammar of a sentence in the blog post. |
 |    |  [Godot-Demo-Projects](https://github.com/godotengine/godot-demo-projects/issues/458) | Godot Request Contribution | Opened a proposal related to my contribution to a request thread, but then closed the issue as it would have been more appropriate to make a pull request instead. |
 |    |  umarkhan207322405-weekly Week 9 |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/umarkhan207322405-weekly/pull/4)  | Capitalized some words on the Week 9 post, added some commas and other grammar checks. |
+|    |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Rail_transport_in_fiction&action=history) | Wikipedia edit | Added an entry within the article, some more details in one of the entries and changed around details for one entry. |
 
 
 
