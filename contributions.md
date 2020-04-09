@@ -38,7 +38,7 @@ following the same syntax.
 |    |  [Godot-Demo-Projects](https://github.com/godotengine/godot-demo-projects/issues/458) | Godot Request Contribution | Opened a proposal related to my contribution to a request thread, but then closed the issue as it would have been more appropriate to make a pull request instead. |
 |    |  umarkhan207322405-weekly Week 9 |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/umarkhan207322405-weekly/pull/4)  | Capitalized some words on the Week 9 post, added some commas and other grammar checks. |
 | 11 |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Rail_transport_in_fiction&diff=prev&oldid=949373021) | Wikipedia edit | Added an entry within the article, some more details in one of the entries and changed around details for one entry. |
-| 11 |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Fancy_Pants_Adventures&diff=prev&oldid=949894424) | Wikipedia edit | Added more details in the gameplay section within the article. |
+|    |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Fancy_Pants_Adventures&diff=prev&oldid=949894424) | Wikipedia edit | Added more details in the gameplay section within the article. |
 
 
 
