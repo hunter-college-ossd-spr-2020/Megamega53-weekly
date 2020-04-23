@@ -25,7 +25,7 @@ following the same syntax.
 |---|:---|:---|:---|
 |   3  |   [OpenStreetMap]( https://www.openstreetmap.org/changeset/80926041) |   OpenStreet Map  |   I've added addresses and hours to a few buildings in Princeton on Nassau Street.|
 |      |   [OpenStreetMap]( https://www.openstreetmap.org/changeset/81049113) |   OpenStreet Map  |   I've also added some descriptions to some baseball fields around Woodlot Park in South Brunswick.|
-|   6  |   MichelleLucero-weekly Week 2 |  Blog Edit  |   I've fixed some grammar mistakes, spelling and some wording in the post to make it more streamlined.   |
+|   6  |   MichelleLucero-weekly Week 2 |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/MichelleLucero-weekly/pull/2)  |   I've fixed some grammar mistakes, spelling and some wording in the post to make it more streamlined.   |
 |   7  |  [OpenStreetMap](https://www.openstreetmap.org/changeset/82235234) | OpenStreet Map |  Added the address to Sal's Pizza after correcting a note about a former location in Princeton.  |
 |   9  |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Freedom_Planet&diff=prev&oldid=948098676) | Wikipedia Edit | Made a minor edit on the article of Freedom Planet by changing the grammar of the sentence that makes a colon unnessary.  |
 |     |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Felidae_(film)&diff=prev&oldid=948099756) | Wikipedia Edit | Added more details to a sentence describing a scene in the movie.  |
