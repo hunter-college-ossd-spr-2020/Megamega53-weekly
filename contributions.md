@@ -40,6 +40,8 @@ following the same syntax.
 | 11 |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Rail_transport_in_fiction&diff=prev&oldid=949373021) | Wikipedia edit | Added an entry within the article, some more details in one of the entries and changed around details for one entry. |
 |    |  [Wikipedia](https://en.wikipedia.org/w/index.php?title=Fancy_Pants_Adventures&diff=prev&oldid=949894424) | Wikipedia edit | Added more details in the gameplay section within the article. |
 |    |  Nannaquin-weekly Week 8 | [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Nannaquin-weekly/pull/5) | Made some minor edits such commas and one spell check. |
+|    |  [OpenStreetMaps](https://www.openstreetmap.org/changeset/83902041) | OpenStreetMaps Addition  | Added the address and hours to Bookoff, located in NYC. |
+|    |  [OpenStreetMaps](https://www.openstreetmap.org/changeset/839021840) | OpenStreetMaps Addition | Modified the address and added hours to Nintendo NY.  |
 
 
 
