@@ -43,7 +43,10 @@ following the same syntax.
 |    |  Nannaquin-weekly Week 8 | [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Nannaquin-weekly/pull/5) | Made some minor edits such commas and one spell check. |
 |    |  [OpenStreetMaps](https://www.openstreetmap.org/changeset/83902041) | OpenStreetMaps Map  | Added the address and hours to Bookoff, located in NYC. |
 |    |  [OpenStreetMaps](https://www.openstreetmap.org/changeset/839021840) | OpenStreetMaps Map | Modified the address and added hours to Nintendo NY.  |
-
-
+| 12 |  [Hosted Weblate - Godot](https://hosted.weblate.org/user/Megamega53/)  |  Godot Translations  |  Added 10 Spanish translations to Godot documentations. |
+| 13 |  [Godot](https://github.com/godotengine/godot/pull/38579) |  Pull Request  |  Made a pull request for a documentation on the KinematicBody2D node class. |
+|    |  [Godot](https://github.com/godotengine/godot/pull/38601) |  Pull Request  |  Made a pull request for updates to two documentations, AnimatedSprite and SpriteFrames, that added more details to their descriptions. |
+|    |  [Godot](https://github.com/godotengine/godot/issues/38599) |  Bug Report  |  Added an issue about the SpriteFrame resource causing an error where the bottom panel disappears when you select it and then switch to the Script Editor |
+|    |  [Godot](https://github.com/godotengine/godot/pull/38644) |  Pull Request |  Made a pull request for the KinematicBody2D documentation. |
 
 
